@@ -1,9 +1,9 @@
 # Generic-IOT-infrastructure
 
 1. Background:
-     Generic IOT Infrastructure – The project supplies a management system for IOT device. The project consists of different modulus that are all attached together         
-     according to the OOP principles. 
-  In the project I used different design patterns, HTTP, TCP, UDP, JSON, managed database with MySQL, writing both server and client testing and debugging .
+Generic IOT Infrastructure – The project supplies a management system for IOT device. The project consists of different modulus that are all attached together         
+according to the OOP principles. 
+In the project I used different design patterns, HTTP, TCP, UDP, JSON, managed database with MySQL, writing both server and client testing and debugging .
  
 2. Purposes:
     • Educational purposes: 
