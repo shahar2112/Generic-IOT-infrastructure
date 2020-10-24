@@ -23,12 +23,12 @@
     c. Improve the customer experience.
 
 3. Attributes:
-            a. Parrallel processing:
-               Working in parallel to improve performance. 
-            b. Configurability:
-                The architure of the system can be modified as needed. For instance, the amount of threads can be changed or the server type.
-            c. Fault Tolerance:
-                Attached a WatchDog software component to monitor each process in our system. 
-                Sending an acknowledgment to the different smart devices after the data they sent was inserted in the DB. 
-            d. Plug and Play:
-               The program is extensible. New features can be added during run-time.
+a. Parrallel processing:
+Working in parallel to improve performance. 
+b. Configurability:
+The architure of the system can be modified as needed. For instance, the amount of threads can be changed or the server type.
+c. Fault Tolerance:
+Attached a WatchDog software component to monitor each process in our system. 
+Sending an acknowledgment to the different smart devices after the data they sent was inserted in the DB. 
+d. Plug and Play:
+The program is extensible. New features can be added during run-time.
